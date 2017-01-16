@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LockPwd</string>
+    <string name="pwd_length_error">密码最少需要四位！</string>
+    <string name="pwd_reinput">再次输入手势密码！</string>
+    <string name="pwd_reinput_error">两次输入的手势密码不一致！</string>
+    <string name="pwd_input_error">手势密码不正确！</string>
+</resources>
